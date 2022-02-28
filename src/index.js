@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// importing self created component
+// import Welcome from './components/welcome';
+// import Message from './components/message';
+// import Clock from './components/clock';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
